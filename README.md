@@ -1,3 +1,3 @@
 ## Nihal's Python repository
 
-# Repo for python code
+Repo for python code
